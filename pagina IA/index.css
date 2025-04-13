@@ -1,0 +1,120 @@
+h1 {
+    margin: 100px;
+    color: transparent;
+    background-clip: text;
+    color: rgb(55, 26, 188);
+    font-size: 300%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+body {
+
+background-image: url(https://wallpapers.com/images/hd/dark-space-wallpaper-34841zun85c870sa.jpg);
+
+background-position: center;
+
+
+
+}
+h3 {
+    
+    font-size: xx-large;
+    margin-left: 150px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+p {
+    font-size: x-large;
+
+    border-radius: 10px;
+    
+    border-color: black;
+    
+color: rgb(255, 255, 255);
+text-align: center;
+margin-top: 0px;
+margin-left: 100px;
+margin-right: 100px;
+
+}
+img.maozinha {
+    border: solid;
+    border-color: rgb(55, 26, 188);
+    margin-left: 130px;
+    padding-left: 00px;
+    border-radius: 0 100px 0  100px  ;
+ 
+    width: 300px;
+height: 300px;
+}
+    
+img.cerebro {
+    border: solid;
+    border-color: rgb(55, 26, 188);
+    margin-left: 100px;
+    padding-left: 00px;
+    border-radius: 0 100px 0  100px  ;
+ 
+    width: 300px;
+height: 300px;
+}
+img.gato {
+    border: solid;
+ border-color: rgb(55, 26, 188);
+    margin-left: 100px;
+    padding-left: 00px;
+    border-radius: 0 100px 0  100px  ;
+
+    width: 300px;
+height: 300px;
+}
+div.imagem{
+text-align: center;
+   
+}
+div.s3 {
+display: flex;
+justify-content: space-evenly;
+color: white;
+font-size: x-large;
+}
+div.s6 {
+    display: flex;
+justify-content: space-evenly;
+color: white;
+font-size: x-large;
+}
+div.t6 {
+    display: flex;
+justify-content: space-evenly;
+color: white;
+}
+div.t3 {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;  
+    
+}
+div.t9 {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;  
+   
+}
+div.s9 {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;  
+    font-size: x-large;
+
+}
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(55, 26, 188);
+    padding-top: 15px;
+    height: 40px;
+  border: solid;
+    text-align: center;
+    background-color: white;
+}
